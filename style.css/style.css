@@ -1,0 +1,100 @@
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+}
+
+div{
+    width: 1320px;
+    height:  472px;
+    border-radius: 2px; 
+    margin: 0 auto;
+}
+
+h1{
+    color: #191C1F;
+    font-size: 18px ;
+    width: 1320px;
+    padding-left: 20px;
+}
+
+table{
+    border-collapse: collapse; 
+}
+.width{
+    width: 597px;
+    height: 72px;
+}
+
+th{
+    color: #464646;
+    background-color: #F2F4F5;
+    border-bottom: solid  1px  #E4E7E9;
+    border-top: solid  1px  #E4E7E9;
+    font-Size:12px;
+    padding-left: 20px;
+    margin-left: 50px ;
+}
+
+td {
+       padding: 24px 10px;
+}
+
+tr{
+    font-size: 14;
+    width:  579px;
+    height:  72px;
+    padding-right: 20px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+#line-through{
+    color: #929FA5;
+    text-decoration:line-through;
+}
+
+.img{
+    width: 72px;
+    height: 72px;
+}
+.style-text{
+    color:  #475156;
+    font-size: 14px;
+    width:  579px;
+    height:  72px;
+}
+button{
+    font-weight: 700;
+    font-Size:14px;
+    Line-height:48px;
+    width:  221px;
+      height:  48px;
+    padding: 0px, 24px, 0px, 24px;
+    border-radius: 2px;
+    border: none;
+}
+.orange-button{
+    background-color:  #FA8232 ;
+    color: #fff;
+    
+}
+.gray-button {
+    background-color:  #ADB7BC ;
+    color: #fff; 
+}
+   
+.green-text{
+color: #2DB224;
+
+}
+.red-text{
+color: #EE5858;
+    
+}
+.ShoppingCartSimple {
+    width: 16.7px;
+}
+button {
+    cursor: pointer;
+      }
